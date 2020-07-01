@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Emily R. Flanagan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Berkeley
+  url: "https://statistics.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Network Statistics
+- Statistics Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statisistics
+    institution: University of California, Berkeley
+    year: August 2020 - Present
+  - course: BS in Statistics and Mathematics
+    institution:  University of Washington, Seattle
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +41,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:eroseflan@berkeley.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/emilyrfl
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,11 +56,13 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an incoming PhD student in [statistics at the University of California, Berkeley](https://statistics.berkeley.edu/). 
+I am broadly interested in causal inference, messy and missing data, networks, and statistics education. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I double majored in [statistics](https://www.stat.washington.edu/) and [mathematics](https://math.washington.edu/) at the University of Washington, Seattle where I completed my honors thesis with [Professor Emilija Perković](https://emilijaperkovic.com/) on[ identification and estimation of direct causal effects](https://emilijaperkovic.com/wp-content/uploads/2020/06/Thesis-Emily.pdf).
+I also worked in the [statistics study center](https://www.stat.washington.edu/academics/tutoring), and co-founded the [Directed Reading Program in Statistics](https://spa-drp.github.io/).
