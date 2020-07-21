@@ -65,4 +65,4 @@ I am an incoming PhD student in [statistics at the University of California, Ber
 I am broadly interested in causal inference, messy and missing data, networks, and statistics education. 
 
 Previously, I double majored in [statistics](https://www.stat.washington.edu/) and [mathematics](https://math.washington.edu/) at the University of Washington, Seattle where I completed my honors thesis with [Professor Emilija Perković](https://emilijaperkovic.com/) on[ identification and estimation of direct causal effects](https://emilijaperkovic.com/wp-content/uploads/2020/06/Thesis-Emily.pdf).
-I also worked in the [statistics study center](https://www.stat.washington.edu/academics/tutoring), and co-founded the [Directed Reading Program in Statistics](https://spa-drp.github.io/).
+I also worked in the [statistics study center](https://www.stat.washington.edu/academics/tutoring), and co-founded the [Directed Reading Program in Statistics](https://spa-drp.github.io/) with [Anna Neufeld](https://anna-neufeld.github.io/).
